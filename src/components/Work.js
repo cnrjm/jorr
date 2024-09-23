@@ -31,7 +31,7 @@ function Work() {
   };
 
   return (
-    <div className="px-48 pb-8 font-serif">
+    <div className="px-48 py-8 font-serif">
       <div className="grid grid-cols-3 gap-4">
         {content.map((item) => {
           const firstImage = getFirstImage(item.media);
