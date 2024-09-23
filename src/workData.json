@@ -1,0 +1,140 @@
+{
+    "content": [
+      {
+        "id": "jordan",
+        "title": "JORDAN",
+        "description": "A middle-eastern adventure",
+        "client": "Jordan Tourism Board",
+        "industry": "Travel",
+        "shotOn": "Sony X30m",
+        "date": "JAN 2023",
+        "media": [
+          {
+            "type": "image",
+            "src": "/jordan/1.jpg",
+            "alt": "Jordan Image 1"
+          },
+          {
+            "type": "image",
+            "src": "/jordan/2.jpg",
+            "alt": "Jordan Image 2"
+          },{
+            "type": "image",
+            "src": "/jordan/3.jpg",
+            "alt": "Jordan Image 3"
+          },{
+            "type": "image",
+            "src": "/jordan/4.jpg",
+            "alt": "Jordan Image 4"
+          },
+          {
+            "type": "video",
+            "src": "/jordan/reel.mp4",
+            "alt": "Jordan Video"
+          }
+        ]
+      },
+      {
+        "id": "nyc",
+        "title": "NEW YORK CITY",
+        "description": "The city that never sleeps",
+        "client": "NYC & Company",
+        "industry": "Urban Tourism",
+        "shotOn": "Canon EOS R5",
+        "date": "AUG 2022",
+        "media": [
+          {
+            "type": "image",
+            "src": "/nyc/1.jpg",
+            "alt": "NYC Image 1"
+          },
+          {
+            "type": "image",
+            "src": "/nyc/2.jpg",
+            "alt": "NYC Image 2"
+          },
+          {
+            "type": "image",
+            "src": "/nyc/3.jpg",
+            "alt": "NYC Image 3"
+          },
+          {
+            "type": "image",
+            "src": "/nyc/4.jpg",
+            "alt": "NYC Image 4"
+          },
+          {
+            "type": "video",
+            "src": "/nyc/reel.mp4",
+            "alt": "NYC Video"
+          }
+        ]
+      },
+      {
+        "id": "antrim",
+        "title": "ANTRIM",
+        "description": "The city that never sleeps",
+        "client": "Visit NI",
+        "industry": "Urban Tourism",
+        "shotOn": "Canon EOS R5",
+        "date": "JUN 2020",
+        "media": [
+          {
+            "type": "image",
+            "src": "/antrim/1.jpg",
+            "alt": "Antrim Image 1"
+          },
+          {
+            "type": "image",
+            "src": "/antrim/2.jpg",
+            "alt": "Antrim Image 2"
+          },
+          {
+            "type": "image",
+            "src": "/antrim/3.jpg",
+            "alt": "Antrim Image 3"
+          },
+          {
+            "type": "image",
+            "src": "/antrim/4.jpg",
+            "alt": "Antrim Image 4"
+          },
+          {
+            "type": "video",
+            "src": "/antrim/reel.mp4",
+            "alt": "NYC Video"
+          }
+        ]
+      },
+      {
+        "id": "portugal",
+        "title": "PORTUGAL",
+        "description": "A middle-eastern adventure",
+        "client": "Jordan Tourism Board",
+        "industry": "Travel",
+        "shotOn": "Sony X30m",
+        "date": "JAN 2023",
+        "media": [
+          {
+            "type": "image",
+            "src": "/portugal/1.jpg",
+            "alt": "Portugal Image 1"
+          },
+          {
+            "type": "image",
+            "src": "/portugal/2.jpg",
+            "alt": "Portugal Image 2"
+          },{
+            "type": "image",
+            "src": "/portugal/3.jpg",
+            "alt": "Portugal Image 3"
+          },
+          {
+            "type": "video",
+            "src": "/portugal/reel.mp4",
+            "alt": "Portugal Video"
+          }
+        ]
+      }
+    ]
+  }
